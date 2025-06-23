@@ -4,7 +4,7 @@ Learning Git deeply.
 We commit with purpose.
 Merge is not magic.
 Conflict teaches control.
-Patch format is tricky.
-Rebase is powerful.
+Patch format is tricky - modefied.
+modified - Rebase is powerful.
 Git is amazing.
 End of file.

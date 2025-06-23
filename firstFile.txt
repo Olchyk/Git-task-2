@@ -1,7 +1,7 @@
 This is a test file.
 Used for git practice.
-Each line is unique.
-We are learning merge.
+Learning Git deeply.
+We commit with purpose.
 And resolving conflicts.
 Cherry-pick is cool.
 Patch format is tricky.

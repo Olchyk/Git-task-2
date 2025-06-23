@@ -1,9 +1,9 @@
 This is a test file.
 Used for git practice.
-Each line is unique.
-We are learning merge.
-And resolving conflicts.
-Cherry-pick is cool.
+Learning Git deeply.
+We commit with purpose.
+Merge is not magic.
+Conflict teaches control.
 Patch format is tricky.
 Rebase is powerful.
 Git is amazing.

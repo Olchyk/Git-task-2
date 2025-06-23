@@ -1,0 +1,10 @@
+Version control matters.
+Branches keep things clean.
+Merging brings work together.
+Conflicts build character.
+Every commit tells a story.
+Push to share progress.
+Pull to stay updated.
+Logs show our past.
+Stash hides work in progress.
+Git is a developer's best friend.

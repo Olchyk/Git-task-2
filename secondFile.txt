@@ -1,7 +1,7 @@
 Version control matters.
 Branches keep things clean.
-Merging is challenging.
-Conflicts need attention.
+Conflicts are hard to avoid.
+Resolving takes focus.
 Every commit tells a story.
 Push to share progress.
 Pull to stay updated.
